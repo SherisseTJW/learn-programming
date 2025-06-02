@@ -62,11 +62,3 @@ Concepts:
 Exercise:
 Convert each of the above exercises into that of a function
 
-## Milestone 6 - Imports
-
-Concepts:
-1. Libraries
-2. Importing code
-
-Exercise:
-Import each of the other functions into a separate file
