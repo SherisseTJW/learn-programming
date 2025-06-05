@@ -36,8 +36,8 @@ Concepts:
   - Operations on various Datatypes
   - Datatype conversion
 
-Note: [Basics](./notes/basics.md)
-Exercise: [Basics](./exercises/basics.py)
+- Note: [Link](./notes/basics.md)
+- Exercise: [Link](./exercises/basics.py)
 
 ## Milestone 2 - Conditionals
 
@@ -45,8 +45,8 @@ Concepts:
 1. Boolean Datatypes
 2. If, else if and else statements
 
-Exercise:
-Given two numbers, and a particular operation, print only the result of that operation on the two numbers.
+- Note: [Link](./notes/conditionals.md)
+- Exercise: [Link](./exercises/conditionals.py)
 
 ## Milestone 3 - Loops
 
@@ -54,8 +54,8 @@ Concepts:
 1. For loops
 2. While loops
 
-Exercise:
-Given a number $x$, print all numbers from 1 to $x$ which are divisible by 2.
+- Note: [Link](./notes/loops.md)
+- Exercise: [Link](./exercises/loops.py)
 
 ## Milestone 4 - Basic Data Structures
 
@@ -63,14 +63,14 @@ Concepts:
 1. List datatypes (Arrays)
 2. Dictionaries
 
-Exercise:
-Given a list of Integers $A$, and a dictionary mapping Strings to Characters, print the resultant string of characters mapped to by the dictionary.
+- Note: [Link](./notes/basic-ds.md)
+- Exercise: [Link](./exercises/basic-ds.py)
 
 ## Milestone 5 - Functions
 
 Concepts:
 1. Functions
 
-Exercise:
-Convert each of the above exercises into that of a function
+- Note: [Link](./notes/functions.md)
+- Exercise: [Link](./exercises/functions.py)
 
