@@ -3,7 +3,11 @@
 A quick repo that runs through the basics of programming for beginners (I.e., no pre-requisite knowledge is assumed)
 
 This will be done in Python since that's the most beginner-friendly language in my opinion and go through the following concepts:
-1. Variables and Datatypes
+1. Basics
+  1. Printing
+  2. Comments
+  3. Variables
+  4. Datatypes
 2. Conditionals
 3. Loops
 4. Functions
@@ -12,6 +16,14 @@ This will be done in Python since that's the most beginner-friendly language in 
   2. Dictionaries
 
 The general hope is that this will set up the reader to be able to at least understand online tutorials for further self-study, and be able to understand basic coding terminologies.
+
+## How to follow along
+
+For each milestone, read the notes first, trying out various examples provided and playing around as you wish. Once you are confident that you understand, attempt the exercises for that milestone. 
+
+There are solutions for each exercise provided but do try out the exercises yourself first and only use the solution to see other ways to complete the exercise. This is fair warning that just looking at code and not actually attempting it yourself will not help you learn how to code by yourself.
+
+Make sure you finish each milestone before heading to the next one. 
 
 # Content
 
@@ -24,8 +36,8 @@ Concepts:
   - Operations on various Datatypes
   - Datatype conversion
 
-Exercise:
-Given two numbers, print the result of addition, subtraction, multiplication, division and modulo on the two numbers.
+Note: [Basics](./notes/basics.md)
+Exercise: [Basics](./exercises/basics.py)
 
 ## Milestone 2 - Conditionals
 
