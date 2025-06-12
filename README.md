@@ -74,3 +74,16 @@ Concepts:
 - Note: [Link](./notes/functions.md)
 - Exercise: [Link](./exercises/functions.py)
 
+# What next?
+
+This guide(?) only really goes through the basics of Python Programming. Even given that, there are still quite a lot of other foundational knowledge that you should learn.
+
+If you would just like to get used to programming, and don't really care about the more theorectical side, I advise you to do some projects. Specifically, aim to code these projects from scratch without copying the code from another source (i.e. ChatGPT).
+
+Examples of what you can do (in no particular order):
+1. Scissors, Paper, Stone Game
+2. Calculator
+3. Note-Taking System (Look into reading / writing to files, or even Databases)
+4. Build your own website!
+
+You can also opt to try out the [Turtle](https://docs.python.org/3/library/turtle.html) library instead which allows you to draw things onto the screen if you're looking for a more visual project.
